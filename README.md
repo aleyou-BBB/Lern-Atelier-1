@@ -11,4 +11,11 @@
 #### 27. 03. 26 Mit KI arbeiten
 #### heute habe ich mit KI gearbeitet und getestet wie die besten KI fotos erstellen
 
+#### Dokumentation 
+#### 8.5.2026 KI OpenClaw
+#### Ich habe OpenClaw instaliert und den IPA key verucht zu verbinden 
+
+#### dokumentation
+#### 1.1.1 OpenClaw zum laufen bringen
+
 
